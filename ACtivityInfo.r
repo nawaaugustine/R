@@ -19,10 +19,10 @@ role <- list(
   parameters = list(
     list(parameterId = "partner",
          label = "Partner",
-         range = "cf31ndjl0lt6uno2"),
+         range = "<TableID>"),
     list(parameterId = "office",
          label = "Office",
-         range = "ch7bymul9pcck5118")),
+         range = "<TableID>")),
   filters = list(
     list(id = "partner",
          label = "matches partner and office",
